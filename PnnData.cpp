@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "PnnData.h"
 
-int s_data[s_Sample_num*feature] = {
+double s_data[s_Sample_num*feature] = {
 	1,2,
 	2,1,
 	-1,-2,
